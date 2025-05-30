@@ -1,6 +1,6 @@
 # hamburgermenu
 menu
-- [Demo Project](https://mohananoruztabar.github.io/calculator/index-calculator.html)
+- [Demo Project](https://mohananoruztabar.github.io/hamburgermenu/)
 
 - ![Image]
 
